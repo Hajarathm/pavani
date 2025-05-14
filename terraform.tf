@@ -25,4 +25,4 @@ To check Git running process:
 - ps aux | grep git                   - Linux/mac
 To kill git process :
 - taskkill /F /IM git.exe              - for windows cmd
-- kill -9 <process_id>                 - Linux/mac
+- kill -9 <process_id>                 - Linux/mac c 
